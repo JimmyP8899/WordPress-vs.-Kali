@@ -1,4 +1,4 @@
-# WordPress-vs.-Kali
+# WordPress-vs.-Kali Issues
 While doing the lab I ran into some problems with my kali machine, I was unable to solve them in time with the extension. These are the steps I have completed successfully. I will link a gif of the problem with my kali machine.
 
 I was able to:
