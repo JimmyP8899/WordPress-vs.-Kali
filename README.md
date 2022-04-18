@@ -7,5 +7,8 @@ I was able to:
   1. install vagrant
   2. Download WPDistillery
   3. Configure WPDistillery
-  4. 
+  4. ping the wordpress virtual machine
+
+
+
 
