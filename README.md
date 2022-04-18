@@ -9,6 +9,6 @@ I was able to:
   3. Configure WPDistillery
   4. ping the wordpress virtual machine
 
-
-
+Problem:
+  Kali machine boots just fine, but after I try to login, it freezes on the desktop. I wasn't able to figure out the problem in time, so I attached some gif recordings of the process I went through before finding this error.
 
